@@ -1,0 +1,7 @@
+name: fuzzy-lkp-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - sklearn
+  - pickle
